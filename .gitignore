@@ -1,0 +1,12 @@
+*.swp
+*~
+.coverage
+/.direnv/
+/.hatch
+/.idea/*
+/.uv
+/.venv/
+/.vscode/*
+/dist/
+__pycache__/
+coverage
